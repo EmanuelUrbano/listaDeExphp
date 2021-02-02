@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="ex8pt2.php" method="post">
+    <input type="number" name="n1"><br>
+    <input type="number" name="n2"><br>
+    <input type="number" name="n3"><br>
+    <input type="number" name="n4"><br>
+    <input type="number" name="n5"><br>
+    <input type="number" name="n6"><br>
+    <input type="number" name="n7"><br>
+    <input type="number" name="n8"><br>
+    <input type="number" name="n9"><br>
+    <input type="number" name="n10"><br>
+    <input type="number" name="n11"><br>
+    <input type="number" name="n12"><br>
+    <input type="number" name="n13"><br>
+    <input type="number" name="n14"><br>
+    <input type="number" name="n15"><br>
+    <input type="submit" value="ok">
+    </form>
+</body>
+</html>
